@@ -32,6 +32,14 @@ As a contributor to Basin, I worked across the Pump subsystem, gas-efficiency pa
 
 These contributions improved Basin’s reliability, reduced long-term gas costs, and strengthened both the mathematical and engineering foundation of the protocol. The result is a more efficient, modern, and test-hardened AMM framework within the broader Beanstalk ecosystem.
 
+## Upstream PRs I authored:
+
+- [#29](https://github.com/BeanstalkFarms/Basin/pull/29)
+- [#31](https://github.com/BeanstalkFarms/Basin/pull/31)
+- [#34](https://github.com/BeanstalkFarms/Basin/pull/34)
+- [#35](https://github.com/BeanstalkFarms/Basin/pull/35)
+- [#37](https://github.com/BeanstalkFarms/Basin/pull/37)
+- [#48](https://github.com/BeanstalkFarms/Basin/pull/37)
 
 ## About
 
